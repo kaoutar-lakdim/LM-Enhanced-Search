@@ -4,11 +4,7 @@
 
 
 
-<kbd>
-  <div style="border: 1px solid #000; padding: 10px; display: inline-block;">
-    [HuggingFace](https://huggingface.co)
-  </div>
-</kbd>
+[![HuggingFace](https://huggingface.co) ![textbox](https://via.placeholder.com/150x25/000000/FFFFFF?text=HuggingFace)](https://huggingface.co)
 
 
 
