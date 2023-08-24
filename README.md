@@ -4,7 +4,12 @@
 
 
 
-[![HuggingFace](https://huggingface.co) ![textbox](https://via.placeholder.com/150x25/000000/FFFFFF?text=HuggingFace)](https://huggingface.co)
+<a href="https://huggingface.co" style="text-decoration: none;">
+  <div style="background-color: #FFA500; padding: 10px; border-radius: 5px; display: inline-block;">
+    <span style="color: white; font-weight: bold;">HuggingFace</span>
+  </div>
+</a>
+
 
 
 
