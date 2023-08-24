@@ -4,7 +4,11 @@
 
 
 
-[![Image](<img width="963" alt="hf-logo-with-title" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/d62efb4f-7ac6-4403-913d-f85619e1568c">)](https://huggingface.co)
+<kbd>
+  <div style="border: 1px solid #000; padding: 10px; display: inline-block;">
+    [HuggingFace](https://huggingface.co)
+  </div>
+</kbd>
 
 
 
