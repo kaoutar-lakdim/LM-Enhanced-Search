@@ -2,9 +2,9 @@
 ## Real-Time Multimedia and Document Systems
 
 
-<img width="963" alt="hf-logo-with-title" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/d62efb4f-7ac6-4403-913d-f85619e1568c">
 
-[![Image](https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/d62efb4f-7ac6-4403-913d-f85619e1568c)](https://huggingface.co)
+
+[![Image](<img width="963" alt="hf-logo-with-title" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/d62efb4f-7ac6-4403-913d-f85619e1568c">)](https://huggingface.co)
 
 
 
