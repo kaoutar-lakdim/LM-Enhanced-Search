@@ -4,6 +4,7 @@
 [![Project Logo](<img width="963" alt="hf-logo-with-title" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/d7de3149-61f2-45f7-b944-7ad927d216cd">
 )](https://huggingface.co)
 
+<img width="963" alt="hf-logo-with-title" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/f869c5cc-89d3-4c0c-af7d-7ed652d398ca">
 
 
 [Project description here]
