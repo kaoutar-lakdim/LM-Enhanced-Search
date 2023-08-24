@@ -1,10 +1,9 @@
 # Integrating Pre-Trained Language Models and Embeddings for Enhanced Search and Retrieval
 ## Real-Time Multimedia and Document Systems
 
-[![Project Logo](<img width="963" alt="hf-logo-with-title" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/7e7af721-a4c2-4a53-84a2-5a2bdae6ac8e">)](https://huggingface.co)
+[![Project Logo](<img width="963" alt="hf-logo-with-title" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/d7de3149-61f2-45f7-b944-7ad927d216cd">
+)](https://huggingface.co)
 
-
-[![Project Logo](https://github.com/kaoutar-lakdim/LM-Enhanced-Search/raw/main/assets/127676452/7e7af721-a4c2-4a53-84a2-5a2bdae6ac8e.png)](https://huggingface.co)
 
 
 [Project description here]
