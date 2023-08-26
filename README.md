@@ -89,13 +89,6 @@ This Jupyter Notebook demonstrates how to use OpenAI's CLIP model for media retr
 </p>
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
-Replace `screenshot.png` with the name of a screenshot image if you have one to provide. This Markdown cell will serve as the description and guide for your Jupyter Notebook.
-
-You can add additional Markdown cells throughout your Jupyter Notebook to provide explanations, details, or acknowledgments as needed.
 
