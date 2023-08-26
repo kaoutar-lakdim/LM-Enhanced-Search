@@ -84,7 +84,10 @@ This Jupyter Notebook demonstrates how to use OpenAI's CLIP model for media retr
 
 ## Example
 
-![Interface Screenshot](screenshot.png)
+<p align="center">
+  <img src="https://github.com/kaoutar-lakdim/the-classification-of-CLICKBAIT/assets/74473164/c585d9a1-85e1-405c-86d4-cdc256586230" alt="schema">
+</p>
+
 
 ## License
 
