@@ -43,8 +43,9 @@
 </table>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/aec684f0-f726-46d8-89ad-e596dbb91619" alt="aws" width="300" height="200"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/940d904a-3884-4ca7-b5c7-1ac01bded5cc" alt="azure" width="300" height="200"/> 
+# 🚀Tools
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/aec684f0-f726-46d8-89ad-e596dbb91619" alt="aws" width="300" height="200"/> </a>  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/4f06647f-d7d8-4d95-8cc7-9f28d109b2ee" alt="azure" width="323" height="200"/></a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/14069fa6-24f4-4b48-b4f5-789ae2c1ff7d" alt="azure" width="300" height="200"/></a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/f1fd56b5-89c3-40e5-84fb-6c2792bb2d8c" alt="azure" width="200" height="150"/></a><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/95eb4dc6-3762-4ea2-b9f3-5218d62e6078" alt="azure" width="300" height="150"/>
 
 
 
