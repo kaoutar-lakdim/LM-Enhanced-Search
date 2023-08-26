@@ -43,6 +43,10 @@
 </table>
 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/aec684f0-f726-46d8-89ad-e596dbb91619" alt="aws" width="300" height="200"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/940d904a-3884-4ca7-b5c7-1ac01bded5cc" alt="azure" width="300" height="200"/> 
+
+
 
 
 
