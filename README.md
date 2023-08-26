@@ -59,14 +59,7 @@
 
 ---
 
-### Table of Contents
-- [Integrating Pre-Trained Language Models and Embeddings for Enhanced Search and Retrieval](#integrating-pre-trained-language-models-and-embeddings-for-enhanced-search-and-retrieval)
-- [Contributors](#contributors)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [License](#license)
+# 🤔 Explaining the project
 
 
 ---
