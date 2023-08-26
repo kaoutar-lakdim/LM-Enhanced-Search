@@ -64,21 +64,35 @@
 - [License](#license)
 
 ---
+# Media Retrieval and Captioning with CLIP
 
-## Introduction
+This Jupyter Notebook demonstrates how to use OpenAI's CLIP model for media retrieval and captioning. Given an input query, the code retrieves the best matching image or video frame from a provided dataset. The CLIP model is utilized to encode both text queries and media embeddings, enabling efficient similarity calculations.
 
-Briefly introduce the project, its goals, and why it's important.
+## Usage
 
-## Features
+1. **Run Each Cell**: Execute each code cell in sequential order to set up the environment and define the functions.
 
-List the key features of your project here.
+2. **Upload Media**: Run the cells that define the Gradio interface to upload an image or video file.
 
-## Installation
+3. **Enter Query**: Provide a query related to the content you're looking for.
 
-Provide installation instructions, preferably with code snippets:
+4. **Select Mode**: Choose between "image" or "video" mode for retrieval.
 
-```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-# Add more installation steps if necessary
+5. **Provide Image Folder Path**: If using image mode, run the cells that define the image retrieval function and provide the path to the folder containing images.
+
+6. **Results**: The interface will display the best matching media along with a caption.
+
+## Example
+
+![Interface Screenshot](screenshot.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Replace `screenshot.png` with the name of a screenshot image if you have one to provide. This Markdown cell will serve as the description and guide for your Jupyter Notebook.
+
+You can add additional Markdown cells throughout your Jupyter Notebook to provide explanations, details, or acknowledgments as needed.
 
