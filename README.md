@@ -55,13 +55,14 @@
 ---
 
 ### Table of Contents
-- [Introduction](#introduction)
+- [Integrating Pre-Trained Language Models and Embeddings for Enhanced Search and Retrieval](#integrating-pre-trained-language-models-and-embeddings-for-enhanced-search-and-retrieval)
+- [Contributors](#contributors)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Contributing](#contributing)
 - [License](#license)
+
 
 ---
 # Media Retrieval and Captioning with CLIP
