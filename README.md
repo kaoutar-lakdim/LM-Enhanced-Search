@@ -61,7 +61,8 @@
 
 # 🤔 Explaining the project
 
-![ttt](https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/abea118d-4c77-4ed4-ae53-838eb0f082de)
+
+![hen drawio](https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/de49dcaa-5b8c-44a9-8224-559d5cbe6c01)
 
 
 
