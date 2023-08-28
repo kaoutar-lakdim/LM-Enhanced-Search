@@ -61,8 +61,7 @@
 
 # 🤔 Explaining the project
 
-
-![hen drawio](https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/de49dcaa-5b8c-44a9-8224-559d5cbe6c01)
+![Copie de Management Org Chart Team Whiteboard in Black Red Green Trendy Sticker Style](https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/bf57a1ab-ae6b-45bc-9a9e-6012f87d79a3)
 
 
 
