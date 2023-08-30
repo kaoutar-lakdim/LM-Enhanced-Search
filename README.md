@@ -63,8 +63,12 @@
 
 ![Copie de Management Org Chart Team Whiteboard in Black Red Green Trendy Sticker Style](https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/bf57a1ab-ae6b-45bc-9a9e-6012f87d79a3)
 
+# 🎥💬 Chat with your own Videos
 
-# 🦙💬 Llama 2 Chat
+<img width="943" alt="Screenshot 2023-08-30 at 19 26 45" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/0a40dc99-9698-4ddd-94d7-d29b419b0065">
+
+
+# 🦙💬 Llama 2 Chat with your own pdfs
 
 This chatbot is created using the open-source Llama 2 LLM model from Meta.
 
