@@ -131,7 +131,7 @@ This Jupyter Notebook demonstrates how to use OpenAI's CLIP model for media retr
 </p>
 
 # Special thanks to:
-<img width="588" alt="Screenshot_2023-08-31_at_19 23 25-removebg-preview" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/f32be6c5-fb0e-419e-bb37-8e145cea02eb">
+<img width="294" alt="Screenshot_2023-08-31_at_19 23 25-removebg-preview" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/f32be6c5-fb0e-419e-bb37-8e145cea02eb">
 
 
 
