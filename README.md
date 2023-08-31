@@ -63,7 +63,7 @@
 
 This project focuses on developing multiple systems for efficient search and retrieval using pre-trained language and vision models. The architecture integrates these models to enable seamless cross-modal understanding and advanced information retrieval.
 
-## System Components
+## 🛠️System Components
 
 | System                                   | Focus                                      | Model                           | Workflow                                                                                                        |
 |------------------------------------------|--------------------------------------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------|
@@ -71,7 +71,7 @@ This project focuses on developing multiple systems for efficient search and ret
 | Video Frame Retrieval and Captioning System | Analyze video frames with text inputs    | CLIP, Replicate                 | User-uploaded videos analyzed using CLIP and Replicate captions to identify frames matching user queries.     |
 | PDFs Retrieval System                    | Answer questions about PDFs                | LLAMA-2, Transformers           | LLAMA-2 indexes PDFs; Transformers provide contextually relevant responses based on user queries.             |
 
-## User-Friendly Interface
+## 💻 User-Friendly Interface
 
 The project features a user-friendly interface that accommodates both real-time image capturing through a camera and video file uploads. Users can seamlessly interact with the systems, facilitating intuitive exploration of visual and textual information.
 
