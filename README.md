@@ -19,7 +19,7 @@
       <a href="https://www.linkedin.com/in/yassine-squalli-houssaini-2abb1a255/" target="_blank"> 
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
       </a>
-      <a href="https://salesp07.github.io" target="_blank">
+      <a href="https://sites.google.com/view/yassinesqualli/accueil?pli=1" target="_blank">
          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
       </a>
     </td>
@@ -35,7 +35,7 @@
       <a href="https://www.linkedin.com/in/kaoutar-lakdim-6b335720a/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
       </a>
-      <a href="https://salesp07.github.io" target="_blank">
+      <a href="https://sites.google.com/d/16hx83iZG4SG6yTcSR9ZiAAfmGMnbDqar/p/1Mfwcay3qYgpCDfxNlZcuYlTnHvE4w68F/edit" target="_blank">
          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
       </a>
     </td>
