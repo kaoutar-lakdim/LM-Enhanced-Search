@@ -61,6 +61,20 @@
 
 # 🤔 Explaining the project
 
+This project focuses on developing multiple systems for efficient search and retrieval using pre-trained language and vision models. The architecture integrates these models to enable seamless cross-modal understanding and advanced information retrieval.
+
+## System Components
+
+| System                                   | Focus                                      | Model                           | Workflow                                                                                                        |
+|------------------------------------------|--------------------------------------------|---------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Image Retrieval System                   | Search images with text inputs             | CLIP (ViT-B/32 variant)         | Real-time webcam images are processed and encoded by CLIP; Replicate API generates captions for similarity.     |
+| Video Frame Retrieval and Captioning System | Analyze video frames with text inputs    | CLIP, Replicate                 | User-uploaded videos analyzed using CLIP and Replicate captions to identify frames matching user queries.     |
+| PDFs Retrieval System                    | Answer questions about PDFs                | LLAMA-2, Transformers           | LLAMA-2 indexes PDFs; Transformers provide contextually relevant responses based on user queries.             |
+
+## User-Friendly Interface
+
+The project features a user-friendly interface that accommodates both real-time image capturing through a camera and video file uploads. Users can seamlessly interact with the systems, facilitating intuitive exploration of visual and textual information.
+
 ![Copie de Management Org Chart Team Whiteboard in Black Red Green Trendy Sticker Style](https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/bf57a1ab-ae6b-45bc-9a9e-6012f87d79a3)
 
 # 🎥💬 Chat with your own Videos
