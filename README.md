@@ -106,29 +106,7 @@ You can also try out the larger models:
 
 
 ---
-# Media Retrieval and Captioning with CLIP
-
-This Jupyter Notebook demonstrates how to use OpenAI's CLIP model for media retrieval and captioning. Given an input query, the code retrieves the best matching image or video frame from a provided dataset. The CLIP model is utilized to encode both text queries and media embeddings, enabling efficient similarity calculations.
-
-## Usage
-
-1. **Run Each Cell**: Execute each code cell in sequential order to set up the environment and define the functions.
-
-2. **Upload Media**: Run the cells that define the Gradio interface to upload an image or video file.
-
-3. **Enter Query**: Provide a query related to the content you're looking for.
-
-4. **Select Mode**: Choose between "image" or "video" mode for retrieval.
-
-5. **Provide Image Folder Path**: If using image mode, run the cells that define the image retrieval function and provide the path to the folder containing images.
-
-6. **Results**: The interface will display the best matching media along with a caption.
-
-## Example
-
-<p align="center">
-  <img src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/74473164/50a89f82-4da1-43bc-8789-4a3bd0564f33" alt="schema">
-</p>
+#  HNA 7AT LES VIDS:
 
 # Special thanks to:
 <img width="294" alt="Screenshot_2023-08-31_at_19 23 25-removebg-preview" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/f32be6c5-fb0e-419e-bb37-8e145cea02eb">
