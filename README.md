@@ -108,6 +108,22 @@ You can also try out the larger models:
 ---
 #  HNA 7AT LES VIDS:
 
+
+
+
+https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/41c49024-6dd2-4a45-9fbb-58920494f9fd
+
+
+
+
+
+
+
+
+
+
+
+
 # Special thanks to:
 <img width="294" alt="Screenshot_2023-08-31_at_19 23 25-removebg-preview" src="https://github.com/kaoutar-lakdim/LM-Enhanced-Search/assets/127676452/f32be6c5-fb0e-419e-bb37-8e145cea02eb">
 
