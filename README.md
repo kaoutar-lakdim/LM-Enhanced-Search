@@ -106,7 +106,7 @@ You can also try out the larger models:
 
 
 ---
-#  THE Platform:
+#  How it works:
 
 
 
